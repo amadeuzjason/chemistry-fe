@@ -121,7 +121,7 @@ const Page = () => {
                     Withdraw
                   </h2>
                 </button>
-              </div>z
+              </div>
             </div>
 
             {/* any option in mobile */}

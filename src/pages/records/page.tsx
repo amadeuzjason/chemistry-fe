@@ -70,7 +70,7 @@ const Page = () => {
                   <RecordItem
                     index={index}
                     key={index}
-                    name={`Suiii ${index + 1}`}
+                    name={`Siswa ${index + 1}`}
                     username={`5122822${index}`}
                   />
                 ))}
